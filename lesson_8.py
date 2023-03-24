@@ -78,7 +78,6 @@ while True:
         with open("contacts.txt") as read_contacts:
             print(read_contacts.read())
     elif command=="3":
-        delete_name=("Чей контакт удалить:")
-        
-
+        delete_name=("Чей контакт удалить:")       
+print("Geeks Hello")
         
